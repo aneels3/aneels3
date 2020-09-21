@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**aneels3/aneels3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/aneels3_">
+  <img align="left" alt="Anil Sharma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/aneels3/">
+  <img align="left" alt="Anil's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/aneels3/">
+  <img align="left" alt="Anil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.hackerrank.com/logical_beast/">
+  <img align="left" alt="Anil's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/hackerrank.svg" />
+</a>
 
-Here are some ideas to get you started:
+![](https://visitor-badge.glitch.me/badge?page_id=aneels3.aneels3)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+I'm [Anil Sharma](https://aneels3.github.io/), a Verification Engineer from India. Graduated from [NIT SIKKIM](https://www.nitsikkim.ac.in/), former Hardware Intern [@IIT Bombay](http://www.iitb.ac.in/) and a part of [NITSkmOS](https://github.com/NITSkmOS) Organization.
+
+<details>
+<summary>📈 My GitHub Stats</summary>
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=aneels3&show_icons=true&theme=nightowl" alt="Anil's" />
+
+</details>
