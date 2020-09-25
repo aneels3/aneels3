@@ -4,6 +4,8 @@ I'm **Anil Sharma**, a Verification Engineer from India. Graduated from [NIT SIK
 
 <details>
 <summary>📈 My GitHub Stats</summary>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=aneels3&show_icons=true&theme=nightowl" alt="Anil's" />
+</details>
 <a href="https://twitter.com/aneels3_">
   <img align="left" alt="Anil Sharma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -15,8 +17,3 @@ I'm **Anil Sharma**, a Verification Engineer from India. Graduated from [NIT SIK
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=aneels3.aneels3)
-
-<br />
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=aneels3&show_icons=true&theme=nightowl" alt="Anil's" />
-
-</details>
