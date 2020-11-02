@@ -11,7 +11,7 @@ I'm <b>Anil Sharma</b>, a Verification Engineer from India. Graduated from [NIT 
 <a href="https://www.linkedin.com/in/aneels3/">
   <img align="left" alt="Anil's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.hackerrank.com/logical_beast/">
+<a href="https://www.hackerrank.com/aneels3/">
   <img align="left" alt="Anil's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/hackerrank.svg" />
 </a>
 
