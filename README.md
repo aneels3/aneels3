@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm <b>Anil Sharma</b>, a Verification Engineer from India. Graduated from [NIT SIKKIM](https://www.nitsikkim.ac.in/), former Hardware Intern [@IIT Bombay](http://www.iitb.ac.in/) and a part of [NITSkmOS](https://github.com/NITSkmOS) Organization.
+I'm <b>Anil Sharma</b>, a Verification Engineer from India. Graduated from [NIT SIKKIM](https://www.nitsikkim.ac.in/), former Hardware Intern [@IIT Bombay](http://www.iitb.ac.in/)
 
 <details>
 <summary>📈 My GitHub Stats</summary>
