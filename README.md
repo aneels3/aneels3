@@ -14,5 +14,3 @@ I'm <b>Anil Sharma</b>, a Verification Engineer from India. Graduated from [NIT 
 <a href="https://www.hackerrank.com/aneels3/">
   <img align="left" alt="Anil's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/hackerrank.svg" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=aneels3.aneels3)
